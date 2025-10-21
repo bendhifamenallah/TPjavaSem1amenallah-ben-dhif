@@ -6,7 +6,7 @@ public class ex2 {
         System.out.println("donner un nomber");
         int n;
         do {
-
+2
             n = sc.nextInt();
         } while (n < 1 | n > 12);
 
